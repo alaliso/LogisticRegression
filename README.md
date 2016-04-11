@@ -1,5 +1,5 @@
 # LogisticRegression
-Logistic Regression
+## Logistic Regression ##
    * Extract features from Amazon product reviews.
    * Convert an SFrame into a NumPy array.
    * Implement the link function for logistic regression.
@@ -8,7 +8,7 @@ Logistic Regression
    * Predict sentiments.
    * Compute classification accuracy for the logistic regression model.
 
-Logistic Regression with L2 regularization
+## Logistic Regression with L2 regularization ##
 
   * Extract features from Amazon product reviews.
   * Convert an SFrame into a NumPy array.
